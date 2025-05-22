@@ -1,7 +1,7 @@
 
 # Consulta CEP 📍
 
-Aplicativo desenvolvido em Flutter com o objetivo de **consultar informações de um endereço a partir de um CEP informado pelo usuário**. Ele utiliza a API ViaCEP para buscar os dados, retornando informações como logradouro, bairro, cidade e estado. Essas informações vêm através de um arquivo json.
+Aplicativo desenvolvido em Flutter com o objetivo de **consultar informações de um endereço a partir de um CEP informado pelo usuário**. Ele utiliza a API ViaCEP para buscar os dados, retornando informações como logradouro, bairro, cidade e estado. Essas informações vem através de um arquivo json.
 
 ## 🎯 Objetivo
 
