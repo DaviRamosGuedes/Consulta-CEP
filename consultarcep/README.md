@@ -5,7 +5,7 @@ Aplicativo desenvolvido em Flutter com o objetivo de **consultar informações d
 
 ## 🎯 Objetivo
 
-O aplicativo tem como finalidade facilitar a consulta de endereços de forma rápida e prática, funcionando como um recurso auxiliar para validação de dados em sistemas de cadastro.
+O aplicativo tem como finalidade facilitar a consulta de endereços de forma rápida e prática, funciona como um sistema para validar se o CEP está correto.
 
 ---
 
